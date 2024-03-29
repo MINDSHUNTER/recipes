@@ -1,0 +1,16 @@
+{
+  "name": "api-receipt",
+  "version": "1.0.0",
+  "description": "\"api gestion de rectte\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "hamza",
+  "license": "ISC",
+  "dependencies": {
+    "espress": "^0.0.0",
+    "mongoose": "^8.2.0"
+  }
+}
